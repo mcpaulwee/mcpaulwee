@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mcpaulwee
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Ruby on Rails
 - 📫 You can reach out to me on mcpaulwee@gmail.com
 
 <!---
